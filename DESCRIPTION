@@ -1,0 +1,15 @@
+Package: RpairEnergy
+Type: Package
+Title: R Pair Energy
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Leonardo", "Bò",
+      email = "boleo88@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Perform pairwise energy calculations.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
