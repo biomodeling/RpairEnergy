@@ -6,3 +6,5 @@
 inst/doc
 docs
 inst/oldfiles/
+src/*.o
+src/*.so
