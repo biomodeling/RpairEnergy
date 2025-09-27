@@ -8,3 +8,4 @@ docs
 inst/oldfiles/
 src/*.o
 src/*.so
+compute_pair_energy_r.cpp
