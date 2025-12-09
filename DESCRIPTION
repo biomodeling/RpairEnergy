@@ -1,7 +1,7 @@
 Package: RpairEnergy
 Type: Package
 Title: R Pair Energy
-Version: 0.2.0
+Version: 0.4.0
 Authors@R: c(
     person(
       "Leonardo", "Bò",
@@ -14,7 +14,8 @@ License: GPL (>= 3)
 Imports:
     Rcpp,
     data.table,
-    igraph
+    igraph,
+    pbapply
 LinkingTo:
     Rcpp
 Encoding: UTF-8
