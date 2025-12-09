@@ -139,7 +139,7 @@ A `data.table` with summed symmetric (`sp_sym_<part>`) and asymmetric (`sp_asym_
 
 ---
 
-### `get_triangles`
+### `get_triangles_potentials`
 
 Computes the total log-potential score for antibody-antigen residue triangles, formed by a base pair and a third residue, matching them against a reference table of triangle potentials.
 
